@@ -22,3 +22,5 @@ def pesquisa_binaria(lista, numero):
 
 
 pesquisa_binaria(arr,3)
+
+pedro = "bababa"
